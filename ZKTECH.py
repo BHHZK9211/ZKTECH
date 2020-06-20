@@ -60,8 +60,8 @@ logo = """
 \033[1;97m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;92m๑۩۩๑\033[1;97m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[1;97mAuthor©\033[1;97m: \033[1;92mZ_K_9211
 \033[1;97mInstagram\033[1;97m: \033[1;92mhttps://www.Instagram.com/Techzk9211
-\033[1;97mFacebook\033[1;97m: \033[1;92mhttps://www.Aamirzk420
-\033[1;97mWhatsapp\033[1;97m: \033[1;92m+923117675174
+\033[1;97mFacebook\033[1;97m: \033[1;92mhttps://www.Facebook.com/Aamirzk420
+\033[1;97mWhatsapp\033[1;97m: \033[1;92mFOLLOW ME ON IBSTA AND YOUTUBE
 \033[1;97m«-----------\033[1;92m✧\033[1;97m------------»"""
 
 def tik():
@@ -93,7 +93,7 @@ print  """
 \033[1;91mAuthor©\033[1;91m: \033[1;93mZ_K_9211
 \033[1;91mInstagram\033[1;91m: \033[1;93mhttps://www.Instagram.com/Techzk9211
 \033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/Aamirzk420
-\033[1;91mWhatsapp\033[1;91m: \033[1;93m+923117675174
+\033[1;91mWhatsapp\033[1;91m: \033[1;93mFOLLOW ME ON INSTA AND YOUTUBE
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
 jalan('              \033[1;91mREAD CAREFULLY:')
 jalan("\033[1;97m   It's not in Commands Control to get a   ")
